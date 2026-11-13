@@ -38,4 +38,4 @@ Related: [cron-builder](https://github.com/0xelitesystem/cron-builder), [cron-ex
 
 ## License
 
-MIT. Copyright 0xelitesystem 2026.
+MIT. Copyright RBL Industries LLC 2026.
