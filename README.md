@@ -34,7 +34,7 @@ This is an independent project. It is not affiliated with, endorsed by or sponso
 
 Part of a catalog of single-file browser tools and plain-language references, all MIT licensed and dependency-free: [0xelitesystem.github.io](https://0xelitesystem.github.io/). Built by [elitesystem.ai](https://elitesystem.ai).
 
-Related: [cron-builder](https://github.com/0xelitesystem/cron-builder), [cron-expression-explainer](https://github.com/0xelitesystem/cron-expression-explainer), [github-actions-expression-evaluator](https://github.com/0xelitesystem/github-actions-expression-evaluator), [timezone-and-utc-basics-reference](https://github.com/0xelitesystem/timezone-and-utc-basics-reference), [background-jobs-and-queues-basics-reference](https://github.com/0xelitesystem/background-jobs-and-queues-basics-reference).
+Related: [cron-next-runs-builder](https://github.com/0xelitesystem/cron-next-runs-builder), [cron-expression-explainer](https://github.com/0xelitesystem/cron-expression-explainer), [github-actions-expression-evaluator](https://github.com/0xelitesystem/github-actions-expression-evaluator), [timezone-and-utc-basics-reference](https://github.com/0xelitesystem/timezone-and-utc-basics-reference), [background-jobs-and-queues-basics-reference](https://github.com/0xelitesystem/background-jobs-and-queues-basics-reference).
 
 ## License
 
